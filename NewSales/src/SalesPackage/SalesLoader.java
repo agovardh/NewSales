@@ -8,6 +8,7 @@ public class SalesLoader {
 		System.out.println("Hello Happy New Sales People in US !!!");
 		System.out.println ("This Application Shows New Sales Data");
 		System.out.println ("-------------*------------");
+		System.out.println ("------------***-----------");
 		
 		
 	}
